@@ -1,0 +1,47 @@
+[
+  {
+    "id": "AllDebridPlugin",
+    "name": "AllDebrid",
+    "description": "AllDebrid supports torrents, direct downloads, and protected links.",
+    "type": "Debriders",
+    "latestVersion": "1.0.0",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "minServerVersion": "1.0.0",
+        "deprecated": false,
+        "releaseDate": "2026-04-05T15:40:57.246631Z"
+      }
+    ]
+  },
+  {
+    "id": "WawacitySourcePlugin",
+    "name": "Wawacity",
+    "description": "General source for various content via direct download using Wawacity.",
+    "type": "Sources",
+    "latestVersion": "1.0.1",
+    "versions": [
+      {
+        "version": "1.0.1",
+        "minServerVersion": "1.0.0",
+        "deprecated": false,
+        "releaseDate": "2026-04-05T15:40:59.010198Z"
+      }
+    ]
+  },
+  {
+    "id": "NyaaSourcePlugin",
+    "name": "Nyaa.si",
+    "description": "Torrent source specialized in anime and Japanese media (Nyaa.si).",
+    "type": "Sources",
+    "latestVersion": "1.0.1",
+    "versions": [
+      {
+        "version": "1.0.1",
+        "minServerVersion": "1.0.0",
+        "deprecated": false,
+        "releaseDate": "2026-04-05T15:41:00.847590Z"
+      }
+    ]
+  }
+]
