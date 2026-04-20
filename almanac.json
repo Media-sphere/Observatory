@@ -4,8 +4,14 @@
     "name": "AllDebrid",
     "description": "AllDebrid supports torrents, direct downloads, and protected links.",
     "type": "Debriders",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "versions": [
+      {
+        "version": "1.0.1",
+        "minServerVersion": "1.1.",
+        "deprecated": false,
+        "releaseDate": "2026-04-20T09:30:22.057830Z"
+      },
       {
         "version": "1.0.0",
         "minServerVersion": "1.0.0",
@@ -40,8 +46,14 @@
     "name": "Nyaa.si",
     "description": "Torrent source specialized in anime and Japanese media (Nyaa.si).",
     "type": "Sources",
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.2",
     "versions": [
+      {
+        "version": "1.0.2",
+        "minServerVersion": "1.1.3",
+        "deprecated": false,
+        "releaseDate": "2026-04-20T09:30:24.259737Z"
+      },
       {
         "version": "1.0.1",
         "minServerVersion": "1.0.0",
