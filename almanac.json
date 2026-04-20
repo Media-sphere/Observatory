@@ -61,5 +61,20 @@
         "releaseDate": "2026-04-05T15:41:00.847590Z"
       }
     ]
+  },
+  {
+    "id": "WarezSourcePlugin",
+    "name": "Warez-Torrent",
+    "description": "General source for various content via torrent",
+    "type": "Sources",
+    "latestVersion": "1.0.0",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "minServerVersion": "1.1.3",
+        "deprecated": false,
+        "releaseDate": "2026-04-20T15:34:12.939465Z"
+      }
+    ]
   }
 ]
