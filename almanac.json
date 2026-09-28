@@ -8,7 +8,7 @@
     "versions": [
       {
         "version": "1.0.1",
-        "minServerVersion": "1.1.",
+        "minServerVersion": "1.1.3",
         "deprecated": false,
         "releaseDate": "2026-04-20T09:30:22.057830Z"
       },
