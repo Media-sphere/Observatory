@@ -29,7 +29,7 @@
     "versions": [
       {
         "version": "1.0.2",
-        "minServerVersion": "1.1.1",
+        "minServerVersion": "1.1.3",
         "deprecated": false,
         "releaseDate": "2026-04-14T22:29:39.473392Z"
       },
@@ -72,7 +72,7 @@
       {
         "version": "1.0.0",
         "minServerVersion": "1.1.3",
-        "deprecated": false,
+        "deprecated": true,
         "releaseDate": "2026-04-20T15:34:12.939465Z"
       }
     ]
