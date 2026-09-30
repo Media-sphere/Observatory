@@ -31,8 +31,14 @@
     "name": "Wawacity",
     "description": "General source for various content via direct download using Wawacity.",
     "type": "Sources",
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.0.4",
     "versions": [
+      {
+        "version": "1.0.4",
+        "minServerVersion": "1.2.0",
+        "deprecated": false,
+        "releaseDate": "2026-09-30T09:34:08.289807Z"
+      },
       {
         "version": "1.0.3",
         "minServerVersion": "1.2.0",
