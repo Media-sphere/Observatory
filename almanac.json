@@ -4,8 +4,14 @@
     "name": "AllDebrid",
     "description": "AllDebrid supports torrents, direct downloads, and protected links.",
     "type": "Debriders",
-    "latestVersion": "1.0.3",
+    "latestVersion": "1.1.1",
     "versions": [
+      {
+        "version": "1.1.1",
+        "minServerVersion": "1.2.1",
+        "deprecated": false,
+        "releaseDate": "2026-10-14T20:28:19.695781Z"
+      },
       {
         "version": "1.0.3",
         "minServerVersion": "1.2.1",
@@ -37,8 +43,14 @@
     "name": "Wawacity",
     "description": "General source for various content via direct download using Wawacity.",
     "type": "Sources",
-    "latestVersion": "1.0.5",
+    "latestVersion": "1.0.6",
     "versions": [
+      {
+        "version": "1.0.6",
+        "minServerVersion": "1.2.3",
+        "deprecated": false,
+        "releaseDate": "2026-10-14T20:28:16.418931Z"
+      },
       {
         "version": "1.0.5",
         "minServerVersion": "1.2.1",
@@ -76,8 +88,14 @@
     "name": "Nyaa.si",
     "description": "Torrent source specialized in anime and Japanese media (Nyaa.si).",
     "type": "Sources",
-    "latestVersion": "1.0.4",
+    "latestVersion": "1.0.5",
     "versions": [
+      {
+        "version": "1.0.5",
+        "minServerVersion": "1.2.3",
+        "deprecated": false,
+        "releaseDate": "2026-10-14T20:28:13.324829Z"
+      },
       {
         "version": "1.0.4",
         "minServerVersion": "1.2.1",
